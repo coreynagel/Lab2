@@ -1,3 +1,9 @@
+
+# Author: Corey Nagel
+# email: corey.nagel@colorado.edu
+# github for this file: https://github.com/coreynagel/Lab2.git
+
+
 # Part1: Hello World
 class HelloWorldClass
     def initialize(name)
